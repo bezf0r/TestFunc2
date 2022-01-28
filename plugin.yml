@@ -1,0 +1,9 @@
+name: Testfunc
+version: '${project.version}'
+main: ua.bezfor.testfunc.Main
+authors: [ bezf0rs ]
+commands:
+  sc:
+    description: Your description
+    usage: /sc
+    permission: op
